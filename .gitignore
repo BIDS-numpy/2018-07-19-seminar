@@ -110,4 +110,4 @@ Thumbs.db
 .tox
 numpy/random-matrix.csv
 numpy/random-matrix.npy
-numpy/.ipynb_checkpoints/
+**/.ipynb_checkpoints/
