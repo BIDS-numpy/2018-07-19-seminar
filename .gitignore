@@ -111,3 +111,5 @@ Thumbs.db
 numpy/random-matrix.csv
 numpy/random-matrix.npy
 **/.ipynb_checkpoints/
+
+**/.pytest_cache
